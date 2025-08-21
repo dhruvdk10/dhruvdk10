@@ -22,12 +22,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-
----
-
 ## 🌐 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)  
-
+[![LinkedIn](www.linkedin.com/in/dhruv-kapoor-003849212)  
+[![Naukri.com]([https://www.naukri.com/mnjuser/profile?id=&altresid)  
