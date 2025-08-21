@@ -1,3 +1,11 @@
+# 👋 Hi, I'm Dhruv Kapoor  
+
+💻 Web & Flutter Developer | Building responsive websites & mobile apps  
+🚀 Tech Stack: HTML, CSS, JavaScript, Flutter, Dart  
+🌱 Always learning and improving!  
+
+---
+
 ## 🚀 Skills  
 
 **Languages:**  
@@ -11,4 +19,15 @@
 
 **Mobile Development:**  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats  
+![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
+
+---
+
+## 🌐 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)  
 
