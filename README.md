@@ -1,11 +1,3 @@
-# 👋 Hi, I'm Dhruv Kapoor  
-
-💻 Web & Flutter Developer | Building responsive websites & mobile apps  
-🚀 Tech Stack: HTML, CSS, JavaScript, Flutter, Dart  
-🌱 Always learning and improving!  
-
----
-
 ## 🚀 Skills  
 
 **Languages:**  
