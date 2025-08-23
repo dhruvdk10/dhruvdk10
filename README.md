@@ -1,6 +1,7 @@
 # 🛠️ Tech Stack
 
-### 🎨 Frontend
+🎨 Frontend
+
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
@@ -20,9 +21,8 @@
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 
----
 
 # 🌐 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-kapoor-003849212)  
-[![Naukri](https://img.shields.io/badge/Naukri.com-004080?style=for-the-badge&logo=naukri&logoColor=white)](https://www.naukri.com/mnjuser/profile)sid)  
+[![Naukri](https://img.shields.io/badge/Naukri.com-004080?style=for-the-badge&logo=naukri&logoColor=white)](https://www.naukri.com/mnjuser/profile) 
 
