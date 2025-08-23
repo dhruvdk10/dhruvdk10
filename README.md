@@ -19,12 +19,11 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
-
+</div>
 ---
 
-## 🌐 Connect with me  
+# 🌐 Connect with me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-kapoor-003849212)  
 [![Naukri](https://img.shields.io/badge/Naukri.com-004080?style=for-the-badge&logo=naukri&logoColor=white)](https://www.naukri.com/mnjuser/profile?id=&altresid)  
 
-</div>
