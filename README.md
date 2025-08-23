@@ -1,6 +1,4 @@
-# 🛠️ Tech Stack
-
----
+## 🛠️ Tech Stack
 
 🎨 Frontend
 
@@ -26,7 +24,7 @@
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 
 
-# 🌐 Connect with me  
+## 🌐 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-kapoor-003849212)  
 [![Naukri](https://img.shields.io/badge/Naukri.com-004080?style=for-the-badge&logo=naukri&logoColor=white)](https://www.naukri.com/mnjuser/profile) 
 
