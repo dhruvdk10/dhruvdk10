@@ -9,7 +9,8 @@
 
 ---
 
-### 🤖 AI Technologies
+🤖 AI Technologies
+
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://chat.openai.com)
 [![Perplexity](https://img.shields.io/badge/Perplexity-1A1A1A?style=for-the-badge&logo=perplexity&logoColor=white)](https://www.perplexity.ai)
 [![CoPilot](https://img.shields.io/badge/CoPilot-0044CC?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/features/copilot)
@@ -17,7 +18,8 @@
 
 ---
 
-### 📱 Mobile Development
+📱 Mobile Development
+
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 
