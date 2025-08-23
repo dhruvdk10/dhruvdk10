@@ -11,11 +11,10 @@
 ---
 
 ### 🤖 AI Technologies
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Perplexity](https://img.shields.io/badge/Perplexity-1A1A1A?style=for-the-badge&logo=perplexity&logoColor=white)
-![CIPilot](https://img.shields.io/badge/CIPilot-0044CC?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
-
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://chat.openai.com)
+[![Perplexity](https://img.shields.io/badge/Perplexity-1A1A1A?style=for-the-badge&logo=perplexity&logoColor=white)](https://www.perplexity.ai)
+[![CIPilot](https://img.shields.io/badge/CIPilot-0044CC?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/features/copilot)
+[![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)](https://gemini.google.com)
 ---
 
 ### 📱 Mobile Development
