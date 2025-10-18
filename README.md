@@ -1,3 +1,5 @@
+Hi, I'm Dhruv Kapoor — a passionate web and mobile developer exploring AI technologies and building interactive applications.
+
 ## 🛠️ Tech Stack
 
 🎨 Frontend
