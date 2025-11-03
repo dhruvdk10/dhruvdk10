@@ -11,6 +11,9 @@ Hi, I'm Dhruv Kapoor — a passionate web and mobile developer exploring AI tech
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 
+🗄️ Database / Backend
+
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 
 🤖 AI Technologies
 
