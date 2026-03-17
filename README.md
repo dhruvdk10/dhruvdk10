@@ -1,4 +1,4 @@
-Hi, I'm Dhruv Kapoor — a passionate web and mobile developer exploring AI technologies and building interactive applications.
+Hi, I'm Dhruv Kapoor — a web developer passionate about building interactive web experiences using the MERN stack.
 
 ## 🛠️ Tech Stack
 
